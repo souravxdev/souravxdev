@@ -106,6 +106,23 @@ I'm currently sharpening my skills in agentic AI, RAG pipelines, and scalable fu
 
 ---
 
+## Previous Work
+
+<div align="center">
+
+### 👔 Looking for my professional contribution history?
+
+**A significant portion of my engineering work lives here:**
+
+[![Previous Company GitHub](https://img.shields.io/badge/GitHub-sourav--deepersignals-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourav-deepersignals)
+
+*All commits, PRs, and project contributions from my time at my previous company*
+*are tracked under this account — including production-grade frontend & AI work.*
+
+</div>
+
+---
+
 <div align="center">
 
 _Open to collaborations, opportunities, and conversations about building things that matter._
